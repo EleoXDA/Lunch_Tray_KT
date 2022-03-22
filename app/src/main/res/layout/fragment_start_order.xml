@@ -31,6 +31,7 @@
         android:layout_marginTop="@dimen/base_margin"
         android:layout_marginEnd="@dimen/base_margin"
         android:text="@string/start_order"
+        android:onClick="@{() -> entreeMenuFragment.goToNextScreen()}"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
