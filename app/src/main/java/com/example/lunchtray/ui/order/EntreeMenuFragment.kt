@@ -56,10 +56,12 @@ class EntreeMenuFragment : Fragment() {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
         binding.apply {
             lifecycleOwner = viewLifecycleOwner
             viewModel = sharedViewModel
             // TODO: initialize the EntreeMenuFragment variables
+            entreeMenuFragment = this@EntreeMenuFragment
         }
     }
 
