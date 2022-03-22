@@ -27,6 +27,9 @@
             type="com.example.lunchtray.model.OrderViewModel" />
 
         <!-- TODO: Add the data binding variable for the SideMenuFragment -->
+        <variable
+            name="SideMenuFragment"
+            type="com.example.lunchtray.ui.order.SideMenuFragment" />
     </data>
 
     <ScrollView
