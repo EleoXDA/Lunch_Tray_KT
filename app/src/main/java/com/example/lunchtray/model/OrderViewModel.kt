@@ -31,6 +31,8 @@ class OrderViewModel : ViewModel() {
     private var previousEntreePrice = 0.0
     private var previousSidePrice = 0.0
     private var previousAccompanimentPrice = 0.0
+    private var currentEntreePrice = 0.0
+    private var subtotalValue = 0.0
 
     // Default tax rate
     private val taxRate = 0.08
@@ -74,13 +76,15 @@ class OrderViewModel : ViewModel() {
     fun setEntree(entree: String) {
         // TODO: if _entree.value is not null, set the previous entree price to the current
         //  entree price.
-
+        if (_entree.value != null) previousEntreePrice = currentEntreePrice
 
         // TODO: if _subtotal.value is not null subtract the previous entree price from the current
         //  subtotal value. This ensures that we only charge for the currently selected entree.
+        if (_subtotal.value != null) subtotalValue -= previousEntreePrice
 
         // TODO: set the current entree value to the menu item corresponding to the passed in string
         // TODO: update the subtotal to reflect the price of the selected entree.
+        _entree.value; "a"
     }
 
     /**
