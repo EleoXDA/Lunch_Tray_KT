@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.lifecycle:lifecycle-livedata-ktx:2.4.1@aar">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e86abb61d2a81d30cba74168c8e428c7/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e86abb61d2a81d30cba74168c8e428c7/transformed/lifecycle-livedata-ktx-2.4.1/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e86abb61d2a81d30cba74168c8e428c7/transformed/lifecycle-livedata-ktx-2.4.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/fd9b269db4b71240f7b617521290f209/transformed/lifecycle-livedata-ktx-2.4.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fd9b269db4b71240f7b617521290f209/transformed/lifecycle-livedata-ktx-2.4.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fd9b269db4b71240f7b617521290f209/transformed/lifecycle-livedata-ktx-2.4.1/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
