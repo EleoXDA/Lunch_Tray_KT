@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/685c91aea62ff7480f4b2ee67a3c1a51/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e4b3b6690fcb884e9bb15fcd608a2820/transformed/swiperefreshlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/624d64f7f6b804150e2e70c2bebba88a/swiperefreshlayout-1.0.0/res" />
@@ -10,8 +10,10 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fbf5c7d333afb832c3a50701e2680b4b/transformed/swiperefreshlayout-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/120f7ed3155f132b8862ab4a19ff0a1b/transformed/swiperefreshlayout-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5b5ab91817c033c6eda11bfbb5e1d06d/transformed/swiperefreshlayout-1.0.0/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/685c91aea62ff7480f4b2ee67a3c1a51/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/685c91aea62ff7480f4b2ee67a3c1a51/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/362a9fd0b416117cb5812902cef3bc15/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/e4b3b6690fcb884e9bb15fcd608a2820/transformed/swiperefreshlayout-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e4b3b6690fcb884e9bb15fcd608a2820/transformed/swiperefreshlayout-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/e4b3b6690fcb884e9bb15fcd608a2820/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

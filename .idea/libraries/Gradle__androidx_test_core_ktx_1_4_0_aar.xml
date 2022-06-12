@@ -6,8 +6,10 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/15bccb0631998833738d00d18f3e0ca1/transformed/core-ktx-1.4.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fe3fdb224168facf3424d1a2727bb15b/transformed/core-ktx-1.4.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/ff3fa59316ca802f0b660b3a0a96acf1/transformed/core-ktx-1.4.0/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/5085287e9b1e97830138d6423d29788a/transformed/core-ktx-1.4.0/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/5085287e9b1e97830138d6423d29788a/transformed/core-ktx-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/9520aa87517b32969586cb6e36019d70/transformed/core-ktx-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0e1d8c8394dbf532d02ad695073137fa/transformed/core-ktx-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/0e1d8c8394dbf532d02ad695073137fa/transformed/core-ktx-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/0e1d8c8394dbf532d02ad695073137fa/transformed/core-ktx-1.4.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
